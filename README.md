@@ -12,5 +12,16 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
+## Testing
+
+Install dependencies and run the backend test suite:
+
+```bash
+pip install -r requirements.txt
+pytest
+```
+
+Tests follow the Arrange-Act-Assert pattern and live in the `tests/` directory.
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
